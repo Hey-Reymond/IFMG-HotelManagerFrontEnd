@@ -30,7 +30,7 @@ O **SRH** é um sistema de front-end para o **Hotel Fênix** (fictício). O proj
 
 1.  Clone este repositório:
     ```
-    git clone https://github.com/reireymond/HotelManangerFrontEnd.git
+    git clone https://github.com/reireymond/IFMG-HotelManagerFrontEnd.git
     ```
 2.  Abra o arquivo `index.html` no seu navegador.
 3.  Use um dos logins abaixo para testar:
